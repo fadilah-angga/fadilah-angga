@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atef Angga Malik Fadilah</h1>
-<h3 align="center">A passionate Back End Developer from Cikereteg, Bogor, Indonesia</h3>
+<h3 align="center">A passionate Back End Developer from Bogor, Indonesia</h3>
 
 - 🏫 I’m currently studying on **SMK Wikrama Bogor**
 
